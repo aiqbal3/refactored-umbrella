@@ -9,16 +9,8 @@ import java.util.Scanner;
 
 /**
  * Filename: MilkAnalyzer.java
- * Project: ATeam - GotMilk Project
- * Author: Moubarak Jeje (jeje@wisc.edu)
- * Course: CS400 LEC 001
- * Date: April 26, 2020
- * 
- * Collaborators: Alvin Romano(aromano2@wisc.edu), Adeel Iqbal (aiqbal3@wisc.edu), Isacc Weber (iweber2@wisc.edu), Jonathan Luong (jluong@wisc.edu) 
- */
-
- /**
-  * Contains fields and methods used to answer abstract requests from user through MilkGUI.
+ * GotMilk Project
+ * Adeel Iqbal
   */
 public class MilkProcess{
   MilkStorage storage;
