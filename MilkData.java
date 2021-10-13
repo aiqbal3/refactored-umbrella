@@ -2,18 +2,9 @@ import java.util.ArrayList;
 
 /**
  * Filename: MilkStorage.java
- * Project: ATeam - GotMilk Project
- * Author: Isaac Weber (iweber2@wisc.edu)
- * Course: CS400 LEC 001
- * Date: April 21, 2020
- * 
- * Collaborators: 
- * Alvin Romano(aromano2@wisc.edu)
+ * GotMilk Project
  * Adeel Iqbal (aiqbal3@wisc.edu)
- * Moubarak Jeje (jeje@wisc.edu)
- * Jonathan Luong (jluong@wisc.edu)
  */
-
 /**
  * This class is an object that holds all of the milk data for a given FarmID
  */
