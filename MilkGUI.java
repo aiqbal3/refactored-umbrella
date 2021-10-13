@@ -1,14 +1,7 @@
 /**
  * Filename: MilkGUI.java
- * Project: ATeam - GotMilk Project
- * Author: Moubarak Jeje (jeje@wisc.edu)
- * Course: CS400 LEC 001
- * Date: April 30, 2020
- * 
- * Collaborators: Alvin Romano(aromano2@wisc.edu), 
+ * Project: GotMilk Project
  * Adeel Iqbal (aiqbal3@wisc.edu), 
- * Isacc Weber (iweber2@wisc.edu), 
- * Jonathan Luong (jluong@wisc.edu) 
  */
 
 import javafx.scene.control.TextField;
